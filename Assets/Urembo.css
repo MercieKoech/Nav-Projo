@@ -1,0 +1,64 @@
+body{
+    background-color: rgba(238,178,93,0.97);
+}
+.njuguna{
+    color: rgb(106, 11, 138);
+    font-size: 50px;
+    text-align: center;
+}
+.onchiri{
+    background-color: maroon;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 8px;
+    border: unset;
+    width: 180px;
+    height: 50px;
+    cursor: pointer;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.akoth{
+    color: #880800;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.register{
+    width: 10%;
+    margin: auto;
+    margin-right: 45%;
+    margin-left: 45%;
+}
+mutisya{
+    width: 100%;
+    height: 50px;
+    border-radius: 8px;
+    border: unset;
+    padding-left: 16px;
+    font-weight: bold;
+    color: #ab0054;
+}
+
+
+::placeholder{
+    color: #ffb67b;
+}
+
+
+.btn_reg{
+    width: 50%;
+    height: 40px;
+    background-color: #18ab00;
+    color: #ffffff;
+    font-size: 20px;
+    border: unset;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 8px;
+    cursor: pointer;
+}
